@@ -1,2 +1,4 @@
 models
 *.tif
+imageplot_all
+.history
